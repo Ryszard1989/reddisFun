@@ -24,7 +24,7 @@ def main():
     #    print (str(d) + " scored " + str(s))
 
 def makeSomeData():
-    scores = {"Rysz":9000, "Claude":4200, "Abe":30,"Bob":1400,"Charlie":1900}
+    scores = {"Rysz":9000, "Claude":4200, "Abe":30,"Bob":1400,"Charlie":1900, "Derek":500}
     return scores
 
 
